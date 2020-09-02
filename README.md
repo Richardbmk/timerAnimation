@@ -10,5 +10,6 @@ A simple timer animation to keep working on my JavaScript skill.
 
 Check the simple app clicking [here](https://richardbmk.github.io/timerAnimation/).
 
-
+<center>
 ![](timer.PNG)
+</center>
