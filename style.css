@@ -1,0 +1,48 @@
+body {
+    font-family: 'Lexend Peta', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+* {
+    font: inherit;
+}
+
+
+.dial {
+    height: 400px;
+    width: 400px;
+}
+
+.timer {
+    position: relative;
+    display: inline;
+}
+
+.timer input {
+    display: block;
+    /* border: solid blue 1px; */
+    width: 240px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.timer button {
+    /* border: none;  */
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.controls {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
