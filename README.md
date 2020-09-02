@@ -13,3 +13,8 @@ Check the simple app clicking [here](https://richardbmk.github.io/timerAnimation
 <center>
 ![](timer.PNG)
 </center>
+
+
+<center>
+![FigName](logo_r_graph_gallery.jpg)
+</center>
