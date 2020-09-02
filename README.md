@@ -8,7 +8,7 @@ A simple timer animation to keep working on my JavaScript skill.
 * Object Oriented aproach
 * Class, constructor and methods.
 
-Check the simple app clicking [here]().
+Check the simple app clicking [here](https://richardbmk.github.io/timerAnimation/).
 
 
-![](public/timer.JPG)
+![](/timer.JPG)
